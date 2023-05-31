@@ -1,8 +1,13 @@
 ### Olá, me chamo Davi Williams 👋⚡
 
+- ✅ Estou a procura de uma oportunidade na área de frontend;
+- 🔥 Estudando REACT e BOOTSTRAP;
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-williams-b05918178/)
+[![E-MAIL](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](davi.williams.dev@outlook.com)
 
 ![Davi Williams stats](https://github-readme-stats.vercel.app/api?username=PW-creator&show_icons=true&theme=tokyonight)
+
 
 ### Skills
 
@@ -14,4 +19,4 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
-Sou um desenvolvedor FrontEnd, apaixonado por tecnologia, e como alguns sempre chamado de "menino da TI", tento fazer jus a esse vulgo aprendendo mais e mais tecnologias! 
+Sou um desenvolvedor FrontEnd, apaixonado por tecnologia, e como alguns, sempre chamado de "menino da TI", tento fazer jus a esse vulgo aprendendo mais e mais tecnologias! 
