@@ -1,7 +1,9 @@
 ### Olá, me chamo Davi Williams 👋⚡
 
 - ✅ Estou a procura de uma oportunidade na área de frontend;
-- 🔥 Estudando REACT e BOOTSTRAP5;
+- 🔥 Aprofundando conhecimentos com JavaScript;
+- 🔥 Aprendendo Bootstrap5, Figma, e SEO; 
+- 📖 Cursando Sistemas de Informação;
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-williams-b05918178/)
 [![E-MAIL](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](davi.williams.dev@outlook.com)
