@@ -2,7 +2,7 @@
 
 - ✅ Estou a procura de uma oportunidade na área de frontend;
 - 🔥 Aprofundando conhecimentos em JavaScript;
-- 🔥 Aprendendo Bootstrap5, Figma, e SEO; 
+- 🔥 Aprendendo Bootstrap5, e Quality Assurance;
 - 📖 Cursando Sistemas de Informação;
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-williams-b05918178/)
