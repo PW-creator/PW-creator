@@ -1,6 +1,6 @@
 ### Olá, me chamo Davi Williams 👋⚡
 
-- ✅ Estou a procura de uma oportunidade na área de frontend;
+- ✅ Estou a procura de uma oportunidade na área de Frontend ou QA;
 - 🔥 Aprofundando conhecimentos em JavaScript;
 - 🔥 Aprendendo Bootstrap5, e Quality Assurance;
 - 📖 Cursando Sistemas de Informação;
