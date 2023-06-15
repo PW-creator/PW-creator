@@ -1,8 +1,8 @@
 ### Olá, me chamo Davi Williams 👋⚡
 
-- ✅ Estou a procura de uma oportunidade na área de Frontend ou QA;
+- ✅ Estou a procura de uma oportunidade na área de Frontend;
 - 🔥 Aprofundando conhecimentos em JavaScript;
-- 🔥 Aprendendo Bootstrap5, e Quality Assurance;
+- 🔥 Aprendendo Bootstrap5;
 - 📖 Cursando Sistemas de Informação;
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-williams-b05918178/)
@@ -19,7 +19,6 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
   <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
