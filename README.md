@@ -1,8 +1,8 @@
 ### Olá, me chamo Davi Williams 👋⚡
 
-- ✅ Estou a procura de uma oportunidade na área de Frontend;
+- ✅ Estou a procura de uma oportunidade na área de Frontend e QA;
 - 🔥 Aprofundando conhecimentos em JavaScript;
-- 🔥 Aprendendo Bootstrap5;
+- 🔥 Apredendo Java + Angular no Santander Bootcamp 2023 com a DIO;
 - 📖 Cursando Sistemas de Informação;
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-williams-b05918178/)
@@ -23,6 +23,8 @@
   <img align="center" alt="vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+  
 </div><br/>
 
 Sou um desenvolvedor FrontEnd, apaixonado por tecnologia, e como alguns, sempre chamado de "menino da TI", tento fazer jus a esse vulgo aprendendo mais e mais tecnologias! 
