@@ -27,4 +27,4 @@
   
 </div><br/>
 
-Sou um dev, apaixonado por tecnologia, e como alguns, sempre chamado de "menino da TI", tento fazer jus a esse vulgo aprendendo mais e mais tecnologias! 
+Sou apaixonado por tecnologia, e como alguns, sempre chamado de "menino da TI", tento fazer jus a esse vulgo aprendendo mais e mais tecnologias! 
