@@ -1,8 +1,8 @@
 ### Olá, me chamo Davi Williams 👋⚡
 
-- ✅ Estou a procura de uma oportunidade na área de Frontend e QA;
-- 🔥 Aprofundando conhecimentos em JavaScript;
-- 🔥 Apredendo Java + Angular no Santander Bootcamp 2023 com a DIO;
+- ✅ Estou a procura de uma oportunidade na área de QA;
+- 🔥 Aprofundando conhecimentos em Java/Junit;
+- 🔥 Apredendo Formação Quality Assurance Experience com a DIO;
 - 📖 Cursando Sistemas de Informação;
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-williams-b05918178/)
@@ -21,8 +21,9 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img align="center" alt="Junit" src="https://img.shields.io/badge/Junit-black" />
   
 </div><br/>
 
