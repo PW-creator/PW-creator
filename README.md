@@ -1,6 +1,6 @@
 ### Olá, me chamo Davi Williams 👋⚡
 
-- ✅ Estou a procura de uma oportunidade na área de QA;
+- ✅ Estou a procura de uma oportunidade na área de QA / Desenvolvimento com a Power Platform;
 - 🔥 Aprofundando conhecimentos em Java/Junit;
 - 🔥 Apredendo Formação Quality Assurance Experience com a DIO;
 - 📖 Cursando Sistemas de Informação;
